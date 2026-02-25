@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋 I'm Vicenzo de Souza Milanesi</h1>
 <h3 align="center">🚀 Computer Science Student | 💻 FullStack Developer</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vitfbpa&label=Visitors&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vicenzodsouza&label=Visitors&color=0e75b6&style=flat" alt="profile views" />
 </p>
 <p align="center">
   <a href="https://x.com/victfbpa" target="_blank">
@@ -55,14 +55,14 @@
 ## 📂 Featured Projects
 
 <p align="left">
-  <a href="https://github.com/vitfbpa/Projeto-de-Software">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitfbpa&repo=Projeto-De-Software&theme=github_dark&border_color=7F3FBF" />
+  <a href="https://github.com/vicenzodsouza/Projeto-de-Software">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicenzodsouza&repo=Projeto-De-Software&theme=github_dark&border_color=7F3FBF" />
   </a>
-  <a href="https://github.com/vitfbpa/vitfbpa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitfbpa&repo=vitfbpa&theme=github_dark&border_color=7F3FBF" />
+  <a href="https://github.com/vicenzodsouza/vicenzodsouza">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicenzodsouza&repo=vicenzodsouza&theme=github_dark&border_color=7F3FBF" />
   </a>
-  <a href="https://github.com/vitfbpa/PortfolioVit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitfbpa&repo=PortfolioVit&theme=github_dark&border_color=7F3FBF" />
+  <a href="https://github.com/vicenzodsouza/PortfolioVit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicenzodsouza&repo=PortfolioVit&theme=github_dark&border_color=7F3FBF" />
   </a>
 </p>
 
@@ -71,14 +71,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitfbpa&theme=github-dark-blue&border=7F3FBF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vicenzodsouza&theme=github-dark-blue&border=7F3FBF" />
   <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitfbpa&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vicenzodsouza&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vitfbpa&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49.5%" />
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vitfbpa&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49.5%" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vicenzodsouza&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49.5%" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vicenzodsouza&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49.5%" />
 </p>
 
 ---
@@ -86,13 +86,13 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitfbpa&custom_title=GitHub%20Activity%20Graph&theme=react-dark&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=FFFFFF&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vicenzodsouza&custom_title=GitHub%20Activity%20Graph&theme=react-dark&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=FFFFFF&area=true" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/vitfbpa?tab=repositories">
+  <a href="https://github.com/vicenzodsouza?tab=repositories">
     <img src="https://img.shields.io/badge/-See%20My%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white&color=7F3FBF" />
   </a>
 </p>

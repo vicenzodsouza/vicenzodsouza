@@ -51,7 +51,7 @@
 ![Replit](https://img.shields.io/badge/Replit-%23000000.svg?style=for-the-badge&logo=replit&logoColor=white)
 
 ---
-
+<!-- 
 ## 📂 Featured Projects
 
 <p align="left">
@@ -65,7 +65,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicenzodsouza&repo=PortfolioVit&theme=github_dark&border_color=7F3FBF" />
   </a>
 </p>
-
+-->
 ---
 
 ## 📊 GitHub Stats

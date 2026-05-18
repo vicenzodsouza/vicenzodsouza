@@ -8,7 +8,7 @@
   <a href="https://x.com/victfbpa" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
-  <a href="https://instagram.com/vicenzodsouza_" target="_blank">
+  <a href="https://instagram.com/vicenzodsouza" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:vicenzo.milanesi@ufn.edu.br">
